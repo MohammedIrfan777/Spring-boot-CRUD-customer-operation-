@@ -1,1 +1,1 @@
-# Spring-boot-CRUD-customer-operation-
+# Spring boot, JPA, Mysql customer data example CRUD operation
